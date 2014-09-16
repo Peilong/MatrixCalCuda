@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 /**
  *
- * @author Adel Ahmed
+ * @author Peilong Li
  */
 public class Main
 {

@@ -1,4 +1,6 @@
-
+/********************
+* @Author: Peilong Li
+********************/
 // includes, system
 #include <stdlib.h>
 #include <stdio.h>
